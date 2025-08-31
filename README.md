@@ -6,6 +6,7 @@ The Bank Management System is a Java-based desktop application that simulates th
 This project replicates core banking functionalities such as Login, Deposit, Withdrawal, Fast Cash, Balance Enquiry, Mini Statement, and PIN Change, making it a simple yet effective demonstration of real-world banking operations.
 
 
+
 🛠️ Technologies Used:
 
 Java (Swing & AWT) → For GUI
@@ -13,6 +14,7 @@ Java (Swing & AWT) → For GUI
 JDBC (MySQL/Database) → For backend data storage
 
 Object-Oriented Programming (OOP) concepts → For modular design 
+
 
 
 📌 Key Features
